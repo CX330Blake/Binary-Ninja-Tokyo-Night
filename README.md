@@ -1,4 +1,4 @@
-# Dracula for [Binary Ninja](https://binary.ninja/)
+# Tokyo Night for [Binary Ninja](https://binary.ninja/)
 
 > A dark theme for [Binary Ninja](https://binary.ninja/).
 
@@ -8,10 +8,10 @@
 
 ## Install
 
-1. Download the `theme/Dracula.bntheme` file.
-2. Move the `Dracula.bntheme` file to the `themes` subdirectory in your [user folder](https://docs.binary.ninja/guide/index.html#user-folder) (you might need to create the `themes` subdirectory if it doesn't exist).
+1. Download the `theme/<theme-name>.bntheme` file.
+2. Move the `<theme-name>.bntheme` file to the `themes` subdirectory in your [user folder](https://docs.binary.ninja/guide/index.html#user-folder) (you might need to create the `themes` subdirectory if it doesn't exist).
 3. Open Binary Ninja and go to `Edit > Preferences > Settings`
-4. Search for `Theme` and select `Dracula` from the dropdown.
+4. Search for `Theme` and select `<theme-name>` from the dropdown.
 5. Enjoy!
 
 ## Team
@@ -27,10 +27,6 @@ This theme is maintained by the following person(s).
 - [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
 - [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
 - [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
-
-## Dracula PRO
-
-[![Dracula PRO](./.github/dracula-pro.png)](https://draculatheme.com/pro)
 
 ## License
 
