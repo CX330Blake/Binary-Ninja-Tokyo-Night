@@ -108,6 +108,8 @@
         "featureMapFunctionColor":              "darkGreen",
         "featureMapImportColor":                "purple",
         "featureMapExternColor":                "yellow",
-        "featureMapLibraryColor":               "purple"
+        "featureMapLibraryColor":               "purple",
+        "miniGraphOverlayColor":                "white"
+
     }
 }
